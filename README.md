@@ -1,2 +1,2 @@
 # json_file
-structured JSON
+Structured JSON
